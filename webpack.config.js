@@ -1,7 +1,7 @@
 module.exports = {
   entry: "./src/cms/cms.js",
   output: {
-    filename: "./dist/admin/cms.js"
+    filename: "./admin/cms.js"
   },
   module: {
     rules: [
